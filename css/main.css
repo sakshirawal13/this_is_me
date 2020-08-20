@@ -1,0 +1,26 @@
+.site-header {
+    background-color: #166b60;
+    color : rgb(190, 209, 203);
+    height:100vh;
+    font-family: monospace;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.profile-pic {
+    border-radius: 20%;
+    height : 200px;
+    width : 200px;
+    box-shadow: rgb(4, 63, 60) 10px 20px 10px;
+}
+.site-header-content {
+    margin : 10px;
+
+}
+.linkedin-link {
+    color : rgb(190, 209, 203);
+}
+body {
+    margin : 0;
+}
